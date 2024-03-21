@@ -16,6 +16,7 @@ ul {
 
 li {
   float: right;
+  font-family: monospace;
 }
 
 li a {
