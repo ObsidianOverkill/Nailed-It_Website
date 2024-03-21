@@ -28,7 +28,7 @@ li a {
 }
 
 li a:hover {
-  background-color: lightgoldenrodyellow;
+  background-color: rgb(172, 172, 0);
 }
 /*End Nav Bar*/
 
@@ -41,7 +41,6 @@ li a:hover {
   border-radius: 25%;
   position: relative;
   top:45px;
-  
 }
 
 .text {
